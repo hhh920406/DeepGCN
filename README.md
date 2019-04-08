@@ -10,3 +10,5 @@
 
 ## CNN
 - [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/pdf/1408.5882.pdf)
+- [A Convolutional Neural Network for Modelling Sentences](https://www.aclweb.org/anthology/P14-1062)
+	- [참고](https://ratsgo.github.io/deep%20learning/2017/10/09/CNNs/)
