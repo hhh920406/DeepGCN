@@ -16,7 +16,7 @@
 	- [Code (Torch)](https://github.com/muhanzhang/DGCNN), [Code (PyTorch)](https://github.com/muhanzhang/pytorch_DGCNN)
 - [Graph Capsule Convolutional Neural Networks](https://arxiv.org/abs/1805.08090)
 - [Capsule Graph Neural Network](https://openreview.net/forum?id=Byl8BnRcYm)
-	- [Code (PyTorch)](https://github.com/benedekrozemberczki/CapsGNN),[Code (TF)](https://github.com/XinyiZ001/CapsGNN)
+	- [Code (PyTorch)](https://github.com/benedekrozemberczki/CapsGNN), [Code (TF)](https://github.com/XinyiZ001/CapsGNN)
 
 ## CNN Ideas
 - [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/pdf/1408.5882.pdf)
