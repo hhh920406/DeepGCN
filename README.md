@@ -21,7 +21,7 @@
 
 ### Graph Learning
 - [Learning Discrete Structures for Graph Neural Networks](https://arxiv.org/abs/1903.11960)
-- [ Exploring Graph Learning for Semi-Supervised Classification Beyond Euclidean Data](https://arxiv.org/abs/1904.10146)
+- [Exploring Graph Learning for Semi-Supervised Classification Beyond Euclidean Data](https://arxiv.org/abs/1904.10146)
 
 ## CNN Ideas
 - [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/pdf/1408.5882.pdf)
