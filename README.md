@@ -19,6 +19,10 @@
 - [Capsule Graph Neural Network](https://openreview.net/forum?id=Byl8BnRcYm)
 	- [Code (PyTorch)](https://github.com/benedekrozemberczki/CapsGNN), [Code (TF)](https://github.com/XinyiZ001/CapsGNN)
 
+### Graph Learning
+- [Learning Discrete Structures for Graph Neural Networks](https://arxiv.org/abs/1903.11960)
+- [ Exploring Graph Learning for Semi-Supervised Classification Beyond Euclidean Data](https://arxiv.org/abs/1904.10146)
+
 ## CNN Ideas
 - [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/pdf/1408.5882.pdf)
 - [A Convolutional Neural Network for Modelling Sentences](https://www.aclweb.org/anthology/P14-1062)
