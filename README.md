@@ -18,6 +18,7 @@
 - [Graph Capsule Convolutional Neural Networks](https://arxiv.org/abs/1805.08090)
 - [Capsule Graph Neural Network](https://openreview.net/forum?id=Byl8BnRcYm)
 	- [Code (PyTorch)](https://github.com/benedekrozemberczki/CapsGNN), [Code (TF)](https://github.com/XinyiZ001/CapsGNN)
+- [MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing](https://arxiv.org/abs/1905.00067)
 
 ### Graph Learning
 - [Learning Discrete Structures for Graph Neural Networks](https://arxiv.org/abs/1903.11960)
