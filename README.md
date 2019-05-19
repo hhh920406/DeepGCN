@@ -32,3 +32,10 @@
 - [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/pdf/1408.5882.pdf)
 - [A Convolutional Neural Network for Modelling Sentences](https://www.aclweb.org/anthology/P14-1062)
 	- [참고](https://ratsgo.github.io/deep%20learning/2017/10/09/CNNs/), [참고2](https://ratsgo.github.io/natural%20language%20processing/2017/08/16/deepNLP/)
+
+- https://arxiv.org/pdf/1905.05659.pdf
+- https://www.researchgate.net/profile/Charles_Martin31/publication/332973933_Explainability_Methods_for_Graph_Convolutional_Neural_Networks/links/5cd47634458515712e9ee525/Explainability-Methods-for-Graph-Convolutional-Neural-Networks.pdf
+- https://arxiv.org/pdf/1905.04497.pdf
+- https://arxiv.org/pdf/1905.04579
+- https://arxiv.org/pdf/1905.04413.pdf
+- https://arxiv.org/pdf/1905.04914.pdf
