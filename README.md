@@ -11,6 +11,7 @@
 - [Predict then Propagate: Graph Neural Networks meet Personalized PageRank](https://openreview.net/forum?id=H1gL-2A9Ym) (APPNP)
 - [Deep Graph Infomax](https://arxiv.org/pdf/1809.10341.pdf)
 - [MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing](https://arxiv.org/abs/1905.00067)
+- [Position-aware Graph Neural Networks](http://proceedings.mlr.press/v97/you19b.html)
  
 ### Graph Classification
 - [How Powerful are Graph Neural Networks?](https://arxiv.org/abs/1810.00826) (GIN)
