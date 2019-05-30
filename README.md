@@ -29,6 +29,7 @@
 - [Graph Matching Networks for Learning the Similarity of Graph Structured Objects](https://arxiv.org/abs/1904.12787)
 - [Graphite: Iterative Generative Modeling of Graphs](https://arxiv.org/abs/1803.10459)
 - [Relational Pooling for Graph Representations](https://arxiv.org/abs/1903.02541)
+- [Large Scale Graph Learning From Smooth Signals](https://openreview.net/forum?id=ryGkSo0qYm)
 
 ### Read
 - [Stability Properties of Graph Neural Networks](https://arxiv.org/pdf/1905.04497.pdf)
