@@ -43,6 +43,7 @@
 - [Approximation Ratios of Graph Neural Networks for Combinatorial Problems](https://arxiv.org/pdf/1905.10261.pdf)
 - [Provably Powerful Graph Networks](https://arxiv.org/pdf/1905.11136.pdf)
 - [Edge Contraction Pooling for Graph Neural Networks](https://arxiv.org/pdf/1905.10990.pdf)
+- [Path-Augmented Graph Transformer Network](https://arxiv.org/pdf/1905.12712.pdf)
 
 ## CNN Ideas
 - [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/pdf/1408.5882.pdf)
