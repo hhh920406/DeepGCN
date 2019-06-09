@@ -21,6 +21,7 @@
 - [Graph Capsule Convolutional Neural Networks](https://arxiv.org/abs/1805.08090)
 - [Capsule Graph Neural Network](https://openreview.net/forum?id=Byl8BnRcYm)
 	- [Code (PyTorch)](https://github.com/benedekrozemberczki/CapsGNN), [Code (TF)](https://github.com/XinyiZ001/CapsGNN)
+- [Discriminative structural graph classification](https://arxiv.org/pdf/1905.13422.pdf)
 
 ### Graph Learning
 - [Learning Discrete Structures for Graph Neural Networks](https://arxiv.org/abs/1903.11960)
@@ -45,6 +46,10 @@
 - [Edge Contraction Pooling for Graph Neural Networks](https://arxiv.org/pdf/1905.10990.pdf)
 - [Path-Augmented Graph Transformer Network](https://arxiv.org/pdf/1905.12712.pdf)
 - [Pre-training Graph Neural Networks](https://arxiv.org/pdf/1905.12265.pdf)
+- [MolecularRNN: Generating realistic molecular graphs with optimized properties](https://arxiv.org/pdf/1905.13372.pdf)
+- [Relational Reasoning using Prior Knowledge for Visual Captioning](https://arxiv.org/pdf/1906.01290.pdf)
+- [Discovering Neural Wirings](https://arxiv.org/pdf/1906.00586.pdf)
+- [Wasserstein Weisfeiler-Lehman Graph Kernels](https://arxiv.org/pdf/1906.01277.pdf)
 
 ## CNN Ideas
 - [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/pdf/1408.5882.pdf)
