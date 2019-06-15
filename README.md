@@ -32,6 +32,7 @@
 - [Relational Pooling for Graph Representations](https://arxiv.org/abs/1903.02541)
 - [Large Scale Graph Learning From Smooth Signals](https://openreview.net/forum?id=ryGkSo0qYm)
 - [Power up! Robust Graph Convolutional Network against Evasion Attacks based on Graph Powering](https://arxiv.org/pdf/1905.10029.pdf)
+- [Attacking Graph Convolutional Networks via Rewiring](https://arxiv.org/pdf/1906.03750.pdf)
 
 ### Read
 - [Stability Properties of Graph Neural Networks](https://arxiv.org/pdf/1905.04497.pdf)
@@ -50,6 +51,9 @@
 - [Relational Reasoning using Prior Knowledge for Visual Captioning](https://arxiv.org/pdf/1906.01290.pdf)
 - [Discovering Neural Wirings](https://arxiv.org/pdf/1906.00586.pdf)
 - [Wasserstein Weisfeiler-Lehman Graph Kernels](https://arxiv.org/pdf/1906.01277.pdf)
+- [LEARNING REPRESENTATIONS OF GRAPH DATA: A SURVEY](https://arxiv.org/pdf/1906.02989.pdf)
+- [A Two-Step Graph Convolutional Decoder for Molecule Generation](https://arxiv.org/pdf/1906.03412.pdf)
+- [Redundancy-Free Computation Graphs for Graph Neural Networks](https://arxiv.org/pdf/1906.03707.pdf)
 
 ## CNN Ideas
 - [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/pdf/1408.5882.pdf)
