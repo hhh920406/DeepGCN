@@ -13,6 +13,7 @@
 - [MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing](https://arxiv.org/abs/1905.00067)
 - [Position-aware Graph Neural Networks](http://proceedings.mlr.press/v97/you19b.html)
 - [Disentangled Graph Convolutional Networks](http://proceedings.mlr.press/v97/ma19a/ma19a.pdf)
+- [A Representation Learning Framework for Property Graphs](https://yaobaiwei.github.io/papers/PGE_KDD19.pdf)
  
 ### Graph Classification
 - [How Powerful are Graph Neural Networks?](https://arxiv.org/abs/1810.00826) (GIN)
@@ -34,6 +35,13 @@
 - [Power up! Robust Graph Convolutional Network against Evasion Attacks based on Graph Powering](https://arxiv.org/pdf/1905.10029.pdf)
 - [Attacking Graph Convolutional Networks via Rewiring](https://arxiv.org/pdf/1906.03750.pdf)
 
+### Unsupervised Learning
+- [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](https://arxiv.org/pdf/1811.12359.pdf)
+- [Pre-training Graph Neural Networks](https://arxiv.org/pdf/1905.12265.pdf)
+- [Disentangled Graph Convolutional Networks](http://proceedings.mlr.press/v97/ma19a/ma19a.pdf)
+- [Deep Graph Infomax](https://arxiv.org/pdf/1809.10341.pdf)
+
+
 ### Read
 - [Stability Properties of Graph Neural Networks](https://arxiv.org/pdf/1905.04497.pdf)
 - [Learning to Exploit Long-term Relational Dependencies in Knowledge Graphs](https://arxiv.org/pdf/1905.04914.pdf)
@@ -46,7 +54,6 @@
 - [Provably Powerful Graph Networks](https://arxiv.org/pdf/1905.11136.pdf)
 - [Edge Contraction Pooling for Graph Neural Networks](https://arxiv.org/pdf/1905.10990.pdf)
 - [Path-Augmented Graph Transformer Network](https://arxiv.org/pdf/1905.12712.pdf)
-- [Pre-training Graph Neural Networks](https://arxiv.org/pdf/1905.12265.pdf)
 - [MolecularRNN: Generating realistic molecular graphs with optimized properties](https://arxiv.org/pdf/1905.13372.pdf)
 - [Relational Reasoning using Prior Knowledge for Visual Captioning](https://arxiv.org/pdf/1906.01290.pdf)
 - [Discovering Neural Wirings](https://arxiv.org/pdf/1906.00586.pdf)
