@@ -14,7 +14,8 @@
 - [Position-aware Graph Neural Networks](http://proceedings.mlr.press/v97/you19b.html)
 - [Disentangled Graph Convolutional Networks](http://proceedings.mlr.press/v97/ma19a/ma19a.pdf)
 - [A Representation Learning Framework for Property Graphs](https://yaobaiwei.github.io/papers/PGE_KDD19.pdf)
- 
+- [Exploiting Edge Features for Graph Neural Networks](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gong_Exploiting_Edge_Features_for_Graph_Neural_Networks_CVPR_2019_paper.pdf)
+
 ### Graph Classification
 - [How Powerful are Graph Neural Networks?](https://arxiv.org/abs/1810.00826) (GIN)
 - [An End-to-End Deep Learning Architecture for Graph Classiﬁcation](https://www.cse.wustl.edu/~muhan/papers/AAAI_2018_DGCNN.pdf) (DGCNN)
@@ -40,6 +41,7 @@
 - [Pre-training Graph Neural Networks](https://arxiv.org/pdf/1905.12265.pdf)
 - [Disentangled Graph Convolutional Networks](http://proceedings.mlr.press/v97/ma19a/ma19a.pdf)
 - [Deep Graph Infomax](https://arxiv.org/pdf/1809.10341.pdf)
+- [UNSUPERVISED PRE-TRAINING OF GRAPH CONVOLUTIONAL NETWORKS](https://acbull.github.io/pdf/iclr19-pretrain.pdf)
 
 
 ### Read
@@ -61,6 +63,10 @@
 - [LEARNING REPRESENTATIONS OF GRAPH DATA: A SURVEY](https://arxiv.org/pdf/1906.02989.pdf)
 - [A Two-Step Graph Convolutional Decoder for Molecule Generation](https://arxiv.org/pdf/1906.03412.pdf)
 - [Redundancy-Free Computation Graphs for Graph Neural Networks](https://arxiv.org/pdf/1906.03707.pdf)
+- [Graph Filtration Learning](https://arxiv.org/pdf/1905.10996.pdf)
+- [Representation Learning on Networks: Theories, Algorithms, and Applications](https://dl.acm.org/citation.cfm?id=3320095), [Tutorial](http://snap.stanford.edu/proj/embeddings-www/)
+- [Variational Spectral Graph Convolutional Networks](https://arxiv.org/pdf/1906.01852.pdf)
+- [Robust Graph Convolutional Networks Against Adversarial Attacks](http://pengcui.thumedialab.com/papers/RGCN.pdf)
 
 ## CNN Ideas
 - [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/pdf/1408.5882.pdf)
