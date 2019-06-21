@@ -64,7 +64,7 @@
 - [A Two-Step Graph Convolutional Decoder for Molecule Generation](https://arxiv.org/pdf/1906.03412.pdf)
 - [Redundancy-Free Computation Graphs for Graph Neural Networks](https://arxiv.org/pdf/1906.03707.pdf)
 - [Graph Filtration Learning](https://arxiv.org/pdf/1905.10996.pdf)
-- [Representation Learning on Networks: Theories, Algorithms, and Applications](https://dl.acm.org/citation.cfm?id=3320095), [Tutorial](http://snap.stanford.edu/proj/embeddings-www/)
+- [Representation Learning on Networks: Theories, Algorithms, and Applications](https://dl.acm.org/citation.cfm?id=3320095), [[Tutorial]](http://snap.stanford.edu/proj/embeddings-www/)
 - [Variational Spectral Graph Convolutional Networks](https://arxiv.org/pdf/1906.01852.pdf)
 - [Robust Graph Convolutional Networks Against Adversarial Attacks](http://pengcui.thumedialab.com/papers/RGCN.pdf)
 
