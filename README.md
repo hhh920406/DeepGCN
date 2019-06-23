@@ -43,6 +43,7 @@
 - [Deep Graph Infomax](https://arxiv.org/pdf/1809.10341.pdf)
 - [UNSUPERVISED PRE-TRAINING OF GRAPH CONVOLUTIONAL NETWORKS](https://acbull.github.io/pdf/iclr19-pretrain.pdf)
 
+### Subgraph Embeddings
 
 ### Read
 - [Stability Properties of Graph Neural Networks](https://arxiv.org/pdf/1905.04497.pdf)
@@ -67,6 +68,8 @@
 - [Representation Learning on Networks: Theories, Algorithms, and Applications](https://dl.acm.org/citation.cfm?id=3320095), [[Tutorial]](http://snap.stanford.edu/proj/embeddings-www/)
 - [Variational Spectral Graph Convolutional Networks](https://arxiv.org/pdf/1906.01852.pdf)
 - [Robust Graph Convolutional Networks Against Adversarial Attacks](http://pengcui.thumedialab.com/papers/RGCN.pdf)
+- [Stability of Graph Scattering Transforms](https://arxiv.org/pdf/1906.04784.pdf)
+- [Attributed Graph Clustering: A Deep Attentional Embedding Approach](https://arxiv.org/pdf/1906.06532.pdf)
 
 ## CNN Ideas
 - [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/pdf/1408.5882.pdf)
