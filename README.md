@@ -35,6 +35,7 @@
 - [Large Scale Graph Learning From Smooth Signals](https://openreview.net/forum?id=ryGkSo0qYm)
 - [Power up! Robust Graph Convolutional Network against Evasion Attacks based on Graph Powering](https://arxiv.org/pdf/1905.10029.pdf)
 - [Attacking Graph Convolutional Networks via Rewiring](https://arxiv.org/pdf/1906.03750.pdf)
+- [Graph Learning Networks](https://graphreason.github.io/papers/7.pdf)
 
 ### Unsupervised Learning
 - [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](https://arxiv.org/pdf/1811.12359.pdf)
@@ -44,6 +45,9 @@
 - [UNSUPERVISED PRE-TRAINING OF GRAPH CONVOLUTIONAL NETWORKS](https://acbull.github.io/pdf/iclr19-pretrain.pdf)
 
 ### Subgraph Embeddings
+
+### Self-attention CNN
+- [Stand-Alone Self-Attention in Vision Models](https://arxiv.org/pdf/1906.05909.pdf)
 
 ### Read
 - [Stability Properties of Graph Neural Networks](https://arxiv.org/pdf/1905.04497.pdf)
@@ -75,4 +79,18 @@
 - [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/pdf/1408.5882.pdf)
 - [A Convolutional Neural Network for Modelling Sentences](https://www.aclweb.org/anthology/P14-1062)
 	- [참고](https://ratsgo.github.io/deep%20learning/2017/10/09/CNNs/), [참고2](https://ratsgo.github.io/natural%20language%20processing/2017/08/16/deepNLP/)
+
+## Multi-hop QA
+I’m thinking an interesting direction for you to go is to do multi-hop reading comprehension, for datasets like DROP and HotpotQA
+- DROP: https://allennlp.org/drop
+- HotpotQA: https://hotpotqa.github.io/
+
+To answer questions in these QA datasets require identifying evidences scattered in different places of the paragraphs, and reasoning across these evidences to draw the correct answer. This asks for capabilities including retrieval, coreference, reasoning, etc. This is not symbolic reasoning but more of an implicit reasoning over unstructured text.
+
+Some relevant reads:
+- https://arxiv.org/abs/1906.02900
+- https://arxiv.org/abs/1904.12106
+- https://arxiv.org/abs/1906.02916
+- https://arxiv.org/abs/1905.06933
+- https://arxiv.org/abs/1906.05210 
 
