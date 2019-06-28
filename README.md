@@ -48,6 +48,10 @@
 
 ### Self-attention CNN
 - [Stand-Alone Self-Attention in Vision Models](https://arxiv.org/pdf/1906.05909.pdf)
+- [Graph Attention Networks](https://arxiv.org/abs/1710.10903) (GAT)
+
+### Position-aware GCN
+- [Position-aware Graph Neural Networks](http://proceedings.mlr.press/v97/you19b.html)
 
 ### Read
 - [Stability Properties of Graph Neural Networks](https://arxiv.org/pdf/1905.04497.pdf)
