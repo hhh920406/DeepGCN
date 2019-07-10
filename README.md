@@ -24,18 +24,24 @@
 - [Capsule Graph Neural Network](https://openreview.net/forum?id=Byl8BnRcYm)
 	- [Code (PyTorch)](https://github.com/benedekrozemberczki/CapsGNN), [Code (TF)](https://github.com/XinyiZ001/CapsGNN)
 - [Discriminative structural graph classification](https://arxiv.org/pdf/1905.13422.pdf)
+	- discrimination capacity of aggregation functions
 
 ### Graph Learning
 - [Learning Discrete Structures for Graph Neural Networks](https://arxiv.org/abs/1903.11960)
+	- Sample graphs, learn distribution of each graph, and node classification. Transductive.
 - [Exploring Graph Learning for Semi-Supervised Classification Beyond Euclidean Data](https://arxiv.org/abs/1904.10146)
-- [Spectral Inference Networks: Unifying Deep and Spectral Learning](https://arxiv.org/abs/1806.02215)
+	- Learn adj matrix.
 - [Graph Matching Networks for Learning the Similarity of Graph Structured Objects](https://arxiv.org/abs/1904.12787)
+	- 
+- [Learning to Route in Similarity Graphs](http://proceedings.mlr.press/v97/baranchuk19a/baranchuk19a.pdf)
 - [Graphite: Iterative Generative Modeling of Graphs](https://arxiv.org/abs/1803.10459)
 - [Relational Pooling for Graph Representations](https://arxiv.org/abs/1903.02541)
 - [Large Scale Graph Learning From Smooth Signals](https://openreview.net/forum?id=ryGkSo0qYm)
 - [Power up! Robust Graph Convolutional Network against Evasion Attacks based on Graph Powering](https://arxiv.org/pdf/1905.10029.pdf)
 - [Attacking Graph Convolutional Networks via Rewiring](https://arxiv.org/pdf/1906.03750.pdf)
 - [Graph Learning Networks](https://graphreason.github.io/papers/7.pdf)
+
+- [Spectral Inference Networks: Unifying Deep and Spectral Learning](https://arxiv.org/abs/1806.02215)
 
 ### Unsupervised Learning
 - [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](https://arxiv.org/pdf/1811.12359.pdf)
@@ -54,13 +60,13 @@
 - [Position-aware Graph Neural Networks](http://proceedings.mlr.press/v97/you19b.html)
 
 ### Read
+#### Node Classification
 - [Stability Properties of Graph Neural Networks](https://arxiv.org/pdf/1905.04497.pdf)
 - [Learning to Exploit Long-term Relational Dependencies in Knowledge Graphs](https://arxiv.org/pdf/1905.04914.pdf)
 - [Are Powerful Graph Neural Nets Necessary? A Dissection on Graph Classification](https://arxiv.org/pdf/1905.04579.pdf)
 - [Neighborhood Enlargement in Graph Neural Networks](https://arxiv.org/pdf/1905.08509.pdf)
 - [Revisiting Graph Neural Networks: All We Have is Low-Pass Filters](https://arxiv.org/pdf/1905.09550.pdf)
 - [Optimal Transport for structured data with application on graphs](http://proceedings.mlr.press/v97/titouan19a/titouan19a.pdf)
-- [Learning to Route in Similarity Graphs](http://proceedings.mlr.press/v97/baranchuk19a/baranchuk19a.pdf)
 - [Approximation Ratios of Graph Neural Networks for Combinatorial Problems](https://arxiv.org/pdf/1905.10261.pdf)
 - [Provably Powerful Graph Networks](https://arxiv.org/pdf/1905.11136.pdf)
 - [Edge Contraction Pooling for Graph Neural Networks](https://arxiv.org/pdf/1905.10990.pdf)
@@ -78,6 +84,8 @@
 - [Robust Graph Convolutional Networks Against Adversarial Attacks](http://pengcui.thumedialab.com/papers/RGCN.pdf)
 - [Stability of Graph Scattering Transforms](https://arxiv.org/pdf/1906.04784.pdf)
 - [Attributed Graph Clustering: A Deep Attentional Embedding Approach](https://arxiv.org/pdf/1906.06532.pdf)
+- [Dimensional Reweighting Graph Convolutional Networks](https://arxiv.org/pdf/1907.02237.pdf)
+- [Improving Attention Mechanism in Graph Neural Networks via Cardinality Preservation](https://arxiv.org/pdf/1907.02204.pdf)
 
 ## CNN Ideas
 - [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/pdf/1408.5882.pdf)
