@@ -32,7 +32,6 @@
 - [Exploring Graph Learning for Semi-Supervised Classification Beyond Euclidean Data](https://arxiv.org/abs/1904.10146)
 	- Learn adj matrix.
 - [Graph Matching Networks for Learning the Similarity of Graph Structured Objects](https://arxiv.org/abs/1904.12787)
-	- 
 - [Learning to Route in Similarity Graphs](http://proceedings.mlr.press/v97/baranchuk19a/baranchuk19a.pdf)
 - [Graphite: Iterative Generative Modeling of Graphs](https://arxiv.org/abs/1803.10459)
 - [Relational Pooling for Graph Representations](https://arxiv.org/abs/1903.02541)
