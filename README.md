@@ -27,8 +27,10 @@
 	- discrimination capacity of aggregation functions
 
 ### Graph Learning
-<!-- - [Learning Discrete Structures for Graph Neural Networks](https://arxiv.org/abs/1903.11960) - Sample graphs, learn distribution of each graph, and node classification. Transductive.
-- [Exploring Graph Learning for Semi-Supervised Classification Beyond Euclidean Data](https://arxiv.org/abs/1904.10146) - Learn adj matrix. -->
+- [Learning Discrete Structures for Graph Neural Networks](https://arxiv.org/abs/1903.11960) 
+	- Sample graphs, learn distribution of each graph, and node classification. Transductive.
+- [Exploring Graph Learning for Semi-Supervised Classification Beyond Euclidean Data](https://arxiv.org/abs/1904.10146) 
+	- Learn adj matrix.
 - [Graph Matching Networks for Learning the Similarity of Graph Structured Objects](https://arxiv.org/abs/1904.12787)
 - [Learning to Route in Similarity Graphs](http://proceedings.mlr.press/v97/baranchuk19a/baranchuk19a.pdf)
 - [Graphite: Iterative Generative Modeling of Graphs](https://arxiv.org/abs/1803.10459)
@@ -37,7 +39,6 @@
 - [Power up! Robust Graph Convolutional Network against Evasion Attacks based on Graph Powering](https://arxiv.org/pdf/1905.10029.pdf)
 - [Attacking Graph Convolutional Networks via Rewiring](https://arxiv.org/pdf/1906.03750.pdf)
 - [Graph Learning Networks](https://graphreason.github.io/papers/7.pdf)
-
 - [Spectral Inference Networks: Unifying Deep and Spectral Learning](https://arxiv.org/abs/1806.02215)
 
 ### Unsupervised Learning
