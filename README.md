@@ -24,21 +24,25 @@
 - [Capsule Graph Neural Network](https://openreview.net/forum?id=Byl8BnRcYm)
 	- [Code (PyTorch)](https://github.com/benedekrozemberczki/CapsGNN), [Code (TF)](https://github.com/XinyiZ001/CapsGNN)
 - [Discriminative structural graph classification](https://arxiv.org/pdf/1905.13422.pdf)
-	- discrimination capacity of aggregation functions
+	- Discrimination capacity of aggregation functions
+- [Relational Pooling for Graph Representations](https://arxiv.org/abs/1903.02541)
+	- Read carefully. Use node and edge features.
 
 ### Graph Learning
 - [Learning Discrete Structures for Graph Neural Networks](https://arxiv.org/abs/1903.11960) 
 	- Sample graphs, learn distribution of each graph, and node classification. Transductive.
 - [Exploring Graph Learning for Semi-Supervised Classification Beyond Euclidean Data](https://arxiv.org/abs/1904.10146) 
 	- Learn adj matrix.
+- [Graph Learning Networks](https://graphreason.github.io/papers/7.pdf) (New problem)
+	- Build an explicit graph and learn the graph.
 - [Graph Matching Networks for Learning the Similarity of Graph Structured Objects](https://arxiv.org/abs/1904.12787)
+	- Graph similarity.
 - [Learning to Route in Similarity Graphs](http://proceedings.mlr.press/v97/baranchuk19a/baranchuk19a.pdf)
-- [Graphite: Iterative Generative Modeling of Graphs](https://arxiv.org/abs/1803.10459)
-- [Relational Pooling for Graph Representations](https://arxiv.org/abs/1903.02541)
+	- Routing problem in graphs. Neareast neighbor search.
 - [Large Scale Graph Learning From Smooth Signals](https://openreview.net/forum?id=ryGkSo0qYm)
+	- Graph construction by approximate neareat neighbor techniques. Make it efficient.
 - [Power up! Robust Graph Convolutional Network against Evasion Attacks based on Graph Powering](https://arxiv.org/pdf/1905.10029.pdf)
 - [Attacking Graph Convolutional Networks via Rewiring](https://arxiv.org/pdf/1906.03750.pdf)
-- [Graph Learning Networks](https://graphreason.github.io/papers/7.pdf)
 - [Spectral Inference Networks: Unifying Deep and Spectral Learning](https://arxiv.org/abs/1806.02215)
 
 ### Unsupervised Learning
@@ -47,6 +51,8 @@
 - [Disentangled Graph Convolutional Networks](http://proceedings.mlr.press/v97/ma19a/ma19a.pdf)
 - [Deep Graph Infomax](https://arxiv.org/pdf/1809.10341.pdf)
 - [UNSUPERVISED PRE-TRAINING OF GRAPH CONVOLUTIONAL NETWORKS](https://acbull.github.io/pdf/iclr19-pretrain.pdf)
+- [Graphite: Iterative Generative Modeling of Graphs](https://arxiv.org/abs/1803.10459)
+	- An algorithmic framework for unsupervised learning of represen- tations over nodes in large graphs using deep latent variable generative models.
 
 ### Subgraph Embeddings
 
