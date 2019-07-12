@@ -15,6 +15,8 @@
 - [Disentangled Graph Convolutional Networks](http://proceedings.mlr.press/v97/ma19a/ma19a.pdf)
 - [A Representation Learning Framework for Property Graphs](https://yaobaiwei.github.io/papers/PGE_KDD19.pdf)
 - [Exploiting Edge Features for Graph Neural Networks](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gong_Exploiting_Edge_Features_for_Graph_Neural_Networks_CVPR_2019_paper.pdf)
+- [Power up! Robust Graph Convolutional Network against Evasion Attacks based on Graph Powering](https://arxiv.org/pdf/1905.10029.pdf)
+	- Read carefully. Re-examine Laplacian operator - find some basic flaws in the spatial and spectral domains. Propose a new operator.
 
 ### Graph Classification
 - [How Powerful are Graph Neural Networks?](https://arxiv.org/abs/1810.00826) (GIN)
@@ -41,8 +43,8 @@
 	- Routing problem in graphs. Neareast neighbor search.
 - [Large Scale Graph Learning From Smooth Signals](https://openreview.net/forum?id=ryGkSo0qYm)
 	- Graph construction by approximate neareat neighbor techniques. Make it efficient.
-- [Power up! Robust Graph Convolutional Network against Evasion Attacks based on Graph Powering](https://arxiv.org/pdf/1905.10029.pdf)
-- [Attacking Graph Convolutional Networks via Rewiring](https://arxiv.org/pdf/1906.03750.pdf)
+- [Attacking Graph Convolutional Networks via Rewiring](https://arxiv.org/pdf/1906.03750.pdf) (New problem)
+	- Rewiring attack. Perturbation
 - [Spectral Inference Networks: Unifying Deep and Spectral Learning](https://arxiv.org/abs/1806.02215)
 
 ### Unsupervised Learning
@@ -52,7 +54,7 @@
 - [Deep Graph Infomax](https://arxiv.org/pdf/1809.10341.pdf)
 - [UNSUPERVISED PRE-TRAINING OF GRAPH CONVOLUTIONAL NETWORKS](https://acbull.github.io/pdf/iclr19-pretrain.pdf)
 - [Graphite: Iterative Generative Modeling of Graphs](https://arxiv.org/abs/1803.10459)
-	- An algorithmic framework for unsupervised learning of represen- tations over nodes in large graphs using deep latent variable generative models.
+	- An algorithmic framework for unsupervised learning of representations over nodes in large graphs using deep latent variable generative models.
 
 ### Subgraph Embeddings
 
@@ -63,13 +65,21 @@
 ### Position-aware GCN
 - [Position-aware Graph Neural Networks](http://proceedings.mlr.press/v97/you19b.html)
 
+### Theoretic analysis on GNN
+- [Stability Properties of Graph Neural Networks](https://arxiv.org/pdf/1905.04497.pdf)
+	- Permutation Equivariant. Stability properties in two perturbation models.
+
+## Knowlede Graphs
+- [Learning to Exploit Long-term Relational Dependencies in Knowledge Graphs](https://arxiv.org/pdf/1905.04914.pdf)
+
 ### Read
 #### Node Classification
-- [Stability Properties of Graph Neural Networks](https://arxiv.org/pdf/1905.04497.pdf)
-- [Learning to Exploit Long-term Relational Dependencies in Knowledge Graphs](https://arxiv.org/pdf/1905.04914.pdf)
+- [Revisiting Graph Neural Networks: All We Have is Low-Pass Filters](https://arxiv.org/pdf/1905.09550.pdf)
+
+#### Graph Classification
 - [Are Powerful Graph Neural Nets Necessary? A Dissection on Graph Classification](https://arxiv.org/pdf/1905.04579.pdf)
 - [Neighborhood Enlargement in Graph Neural Networks](https://arxiv.org/pdf/1905.08509.pdf)
-- [Revisiting Graph Neural Networks: All We Have is Low-Pass Filters](https://arxiv.org/pdf/1905.09550.pdf)
+
 - [Optimal Transport for structured data with application on graphs](http://proceedings.mlr.press/v97/titouan19a/titouan19a.pdf)
 - [Approximation Ratios of Graph Neural Networks for Combinatorial Problems](https://arxiv.org/pdf/1905.10261.pdf)
 - [Provably Powerful Graph Networks](https://arxiv.org/pdf/1905.11136.pdf)
