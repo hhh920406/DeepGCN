@@ -80,6 +80,7 @@
 - [Are Powerful Graph Neural Nets Necessary? A Dissection on Graph Classification](https://arxiv.org/pdf/1905.04579.pdf)
 - [Neighborhood Enlargement in Graph Neural Networks](https://arxiv.org/pdf/1905.08509.pdf)
 
+#### To do
 - [Optimal Transport for structured data with application on graphs](http://proceedings.mlr.press/v97/titouan19a/titouan19a.pdf)
 - [Approximation Ratios of Graph Neural Networks for Combinatorial Problems](https://arxiv.org/pdf/1905.10261.pdf)
 - [Provably Powerful Graph Networks](https://arxiv.org/pdf/1905.11136.pdf)
