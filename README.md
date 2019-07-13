@@ -29,6 +29,8 @@
 	- Discrimination capacity of aggregation functions
 - [Relational Pooling for Graph Representations](https://arxiv.org/abs/1903.02541)
 	- Read carefully. Use node and edge features.
+- [Optimal Transport for structured data with application on graphs](http://proceedings.mlr.press/v97/titouan19a/titouan19a.pdf)
+	- See [Wasserstein Weisfeiler-Lehman Graph Kernels](https://arxiv.org/pdf/1906.01277.pdf)
 
 ### Graph Learning
 - [Learning Discrete Structures for Graph Neural Networks](https://arxiv.org/abs/1903.11960) 
@@ -43,8 +45,6 @@
 	- Routing problem in graphs. Neareast neighbor search.
 - [Large Scale Graph Learning From Smooth Signals](https://openreview.net/forum?id=ryGkSo0qYm)
 	- Graph construction by approximate neareat neighbor techniques. Make it efficient.
-- [Attacking Graph Convolutional Networks via Rewiring](https://arxiv.org/pdf/1906.03750.pdf) (New problem)
-	- Rewiring attack. Perturbation
 - [Spectral Inference Networks: Unifying Deep and Spectral Learning](https://arxiv.org/abs/1806.02215)
 
 ### Unsupervised Learning
@@ -65,42 +65,48 @@
 ### Position-aware GCN
 - [Position-aware Graph Neural Networks](http://proceedings.mlr.press/v97/you19b.html)
 
-### Theoretic analysis on GNN
+### Adversarial Attacks
+- [Attacking Graph Convolutional Networks via Rewiring](https://arxiv.org/pdf/1906.03750.pdf) (New problem)
+	- Rewiring attack. Perturbation
+- [Robust Graph Convolutional Networks Against Adversarial Attacks](http://pengcui.thumedialab.com/papers/RGCN.pdf)
 - [Stability Properties of Graph Neural Networks](https://arxiv.org/pdf/1905.04497.pdf)
 	- Permutation Equivariant. Stability properties in two perturbation models.
+- [Stability of Graph Scattering Transforms](https://arxiv.org/pdf/1906.04784.pdf)
+
+### Theoretic analysis on GNN
+- [Approximation Ratios of Graph Neural Networks for Combinatorial Problems](https://arxiv.org/pdf/1905.10261.pdf)
 
 ## Knowlede Graphs
 - [Learning to Exploit Long-term Relational Dependencies in Knowledge Graphs](https://arxiv.org/pdf/1905.04914.pdf)
 
-### Read
+### Not published
 #### Node Classification
 - [Revisiting Graph Neural Networks: All We Have is Low-Pass Filters](https://arxiv.org/pdf/1905.09550.pdf)
+- [Edge Contraction Pooling for Graph Neural Networks](https://arxiv.org/pdf/1905.10990.pdf) (Node and graph classification)
+- [Variational Spectral Graph Convolutional Networks](https://arxiv.org/pdf/1906.01852.pdf)
+	- Noisy graphs.
+- [Dimensional Reweighting Graph Convolutional Networks](https://arxiv.org/pdf/1907.02237.pdf)
 
 #### Graph Classification
 - [Are Powerful Graph Neural Nets Necessary? A Dissection on Graph Classification](https://arxiv.org/pdf/1905.04579.pdf)
 - [Neighborhood Enlargement in Graph Neural Networks](https://arxiv.org/pdf/1905.08509.pdf)
-
-#### To do
-- [Optimal Transport for structured data with application on graphs](http://proceedings.mlr.press/v97/titouan19a/titouan19a.pdf)
-- [Approximation Ratios of Graph Neural Networks for Combinatorial Problems](https://arxiv.org/pdf/1905.10261.pdf)
 - [Provably Powerful Graph Networks](https://arxiv.org/pdf/1905.11136.pdf)
-- [Edge Contraction Pooling for Graph Neural Networks](https://arxiv.org/pdf/1905.10990.pdf)
-- [Path-Augmented Graph Transformer Network](https://arxiv.org/pdf/1905.12712.pdf)
+- [Wasserstein Weisfeiler-Lehman Graph Kernels](https://arxiv.org/pdf/1906.01277.pdf)
+- [Graph Filtration Learning](https://arxiv.org/pdf/1905.10996.pdf)
+- [Improving Attention Mechanism in Graph Neural Networks via Cardinality Preservation](https://arxiv.org/pdf/1907.02204.pdf)
+
+#### Generative Model
 - [MolecularRNN: Generating realistic molecular graphs with optimized properties](https://arxiv.org/pdf/1905.13372.pdf)
+- [A Two-Step Graph Convolutional Decoder for Molecule Generation](https://arxiv.org/pdf/1906.03412.pdf)
+
+#### Others
 - [Relational Reasoning using Prior Knowledge for Visual Captioning](https://arxiv.org/pdf/1906.01290.pdf)
 - [Discovering Neural Wirings](https://arxiv.org/pdf/1906.00586.pdf)
-- [Wasserstein Weisfeiler-Lehman Graph Kernels](https://arxiv.org/pdf/1906.01277.pdf)
 - [LEARNING REPRESENTATIONS OF GRAPH DATA: A SURVEY](https://arxiv.org/pdf/1906.02989.pdf)
-- [A Two-Step Graph Convolutional Decoder for Molecule Generation](https://arxiv.org/pdf/1906.03412.pdf)
 - [Redundancy-Free Computation Graphs for Graph Neural Networks](https://arxiv.org/pdf/1906.03707.pdf)
-- [Graph Filtration Learning](https://arxiv.org/pdf/1905.10996.pdf)
 - [Representation Learning on Networks: Theories, Algorithms, and Applications](https://dl.acm.org/citation.cfm?id=3320095), [[Tutorial]](http://snap.stanford.edu/proj/embeddings-www/)
-- [Variational Spectral Graph Convolutional Networks](https://arxiv.org/pdf/1906.01852.pdf)
-- [Robust Graph Convolutional Networks Against Adversarial Attacks](http://pengcui.thumedialab.com/papers/RGCN.pdf)
-- [Stability of Graph Scattering Transforms](https://arxiv.org/pdf/1906.04784.pdf)
 - [Attributed Graph Clustering: A Deep Attentional Embedding Approach](https://arxiv.org/pdf/1906.06532.pdf)
-- [Dimensional Reweighting Graph Convolutional Networks](https://arxiv.org/pdf/1907.02237.pdf)
-- [Improving Attention Mechanism in Graph Neural Networks via Cardinality Preservation](https://arxiv.org/pdf/1907.02204.pdf)
+
 
 ## CNN Ideas
 - [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/pdf/1408.5882.pdf)
