@@ -56,15 +56,6 @@
 - [Graphite: Iterative Generative Modeling of Graphs](https://arxiv.org/abs/1803.10459)
 	- An algorithmic framework for unsupervised learning of representations over nodes in large graphs using deep latent variable generative models.
 
-### Subgraph Embeddings
-
-### Self-attention CNN
-- [Stand-Alone Self-Attention in Vision Models](https://arxiv.org/pdf/1906.05909.pdf)
-- [Graph Attention Networks](https://arxiv.org/abs/1710.10903) (GAT)
-
-### Position-aware GCN
-- [Position-aware Graph Neural Networks](http://proceedings.mlr.press/v97/you19b.html)
-
 ### Adversarial Attacks
 - [Attacking Graph Convolutional Networks via Rewiring](https://arxiv.org/pdf/1906.03750.pdf) (New problem)
 	- Rewiring attack. Perturbation
@@ -76,8 +67,12 @@
 ### Theoretic analysis on GNN
 - [Approximation Ratios of Graph Neural Networks for Combinatorial Problems](https://arxiv.org/pdf/1905.10261.pdf)
 
-## Knowlede Graphs
-- [Learning to Exploit Long-term Relational Dependencies in Knowledge Graphs](https://arxiv.org/pdf/1905.04914.pdf)
+### Self-attention CNN
+- [Stand-Alone Self-Attention in Vision Models](https://arxiv.org/pdf/1906.05909.pdf)
+- [Graph Attention Networks](https://arxiv.org/abs/1710.10903) (GAT)
+
+### Position-aware GCN
+- [Position-aware Graph Neural Networks](http://proceedings.mlr.press/v97/you19b.html)
 
 ### Not published
 #### Node Classification
@@ -112,6 +107,9 @@
 - [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/pdf/1408.5882.pdf)
 - [A Convolutional Neural Network for Modelling Sentences](https://www.aclweb.org/anthology/P14-1062)
 	- [참고](https://ratsgo.github.io/deep%20learning/2017/10/09/CNNs/), [참고2](https://ratsgo.github.io/natural%20language%20processing/2017/08/16/deepNLP/)
+
+## Knowlede Graphs
+- [Learning to Exploit Long-term Relational Dependencies in Knowledge Graphs](https://arxiv.org/pdf/1905.04914.pdf)
 
 ## Multi-hop QA
 I’m thinking an interesting direction for you to go is to do multi-hop reading comprehension, for datasets like DROP and HotpotQA
