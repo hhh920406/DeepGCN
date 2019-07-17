@@ -55,14 +55,19 @@
 - [UNSUPERVISED PRE-TRAINING OF GRAPH CONVOLUTIONAL NETWORKS](https://acbull.github.io/pdf/iclr19-pretrain.pdf)
 - [Graphite: Iterative Generative Modeling of Graphs](https://arxiv.org/abs/1803.10459)
 	- An algorithmic framework for unsupervised learning of representations over nodes in large graphs using deep latent variable generative models.
+- [Unsupervised Inductive Graph-Level Representation Learning via Graph-Graph Proximity](http://web.cs.ucla.edu/~yzsun/papers/2019_IJCAI_UGraphEMB.pdf)
 
 ### Adversarial Attacks
+- [Adversarial attacks on neural networks for graph data](https://arxiv.org/pdf/1805.07984.pdf)
+- [Adversarial attack on graph structured data](https://arxiv.org/pdf/1806.02371.pdf)
+- [Adversarial attacks on graph neural networks via meta learning](https://openreview.net/pdf?id=Bylnx209YX)
 - [Attacking Graph Convolutional Networks via Rewiring](https://arxiv.org/pdf/1906.03750.pdf) (New problem)
 	- Rewiring attack. Perturbation
 - [Robust Graph Convolutional Networks Against Adversarial Attacks](http://pengcui.thumedialab.com/papers/RGCN.pdf)
 - [Stability Properties of Graph Neural Networks](https://arxiv.org/pdf/1905.04497.pdf)
 	- Permutation Equivariant. Stability properties in two perturbation models.
 - [Stability of Graph Scattering Transforms](https://arxiv.org/pdf/1906.04784.pdf)
+- [Stability and Generalization of Graph Convolutional Neural Networks](https://arxiv.org/pdf/1905.01004.pdf)
 
 ### Theoretic analysis on GNN
 - [Approximation Ratios of Graph Neural Networks for Combinatorial Problems](https://arxiv.org/pdf/1905.10261.pdf)
@@ -81,6 +86,7 @@
 - [Variational Spectral Graph Convolutional Networks](https://arxiv.org/pdf/1906.01852.pdf)
 	- Noisy graphs.
 - [Dimensional Reweighting Graph Convolutional Networks](https://arxiv.org/pdf/1907.02237.pdf)
+- [GraphSAINT: Graph Sampling Based Inductive Learning Method](https://arxiv.org/pdf/1907.04931.pdf)
 
 #### Graph Classification
 - [Are Powerful Graph Neural Nets Necessary? A Dissection on Graph Classification](https://arxiv.org/pdf/1905.04579.pdf)
@@ -89,10 +95,12 @@
 - [Wasserstein Weisfeiler-Lehman Graph Kernels](https://arxiv.org/pdf/1906.01277.pdf)
 - [Graph Filtration Learning](https://arxiv.org/pdf/1905.10996.pdf)
 - [Improving Attention Mechanism in Graph Neural Networks via Cardinality Preservation](https://arxiv.org/pdf/1907.02204.pdf)
+- [Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology](https://arxiv.org/pdf/1907.05008.pdf)
 
 #### Generative Model
 - [MolecularRNN: Generating realistic molecular graphs with optimized properties](https://arxiv.org/pdf/1905.13372.pdf)
 - [A Two-Step Graph Convolutional Decoder for Molecule Generation](https://arxiv.org/pdf/1906.03412.pdf)
+- [GRAM: Scalable Generative Models for Graphs with Graph Attention Mechanism](https://arxiv.org/pdf/1906.01861.pdf)
 
 #### Others
 - [Relational Reasoning using Prior Knowledge for Visual Captioning](https://arxiv.org/pdf/1906.01290.pdf)
