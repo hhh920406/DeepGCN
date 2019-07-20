@@ -122,14 +122,20 @@
 ## Multi-hop QA
 I’m thinking an interesting direction for you to go is to do multi-hop reading comprehension, for datasets like DROP and HotpotQA
 - DROP: https://allennlp.org/drop
-- HotpotQA: https://hotpotqa.github.io/
+- HotpotQA: https://hotpotqa.github.io/ (span-based)
+- WikiHop (multiple choices)
 
 To answer questions in these QA datasets require identifying evidences scattered in different places of the paragraphs, and reasoning across these evidences to draw the correct answer. This asks for capabilities including retrieval, coreference, reasoning, etc. This is not symbolic reasoning but more of an implicit reasoning over unstructured text.
 
 Some relevant reads:
-- https://arxiv.org/abs/1906.02900
-- https://arxiv.org/abs/1904.12106
-- https://arxiv.org/abs/1906.02916
-- https://arxiv.org/abs/1905.06933
-- https://arxiv.org/abs/1906.05210 
+- [Understanding Dataset Design Choices for Multi-hop Reasoning](https://arxiv.org/abs/1904.12106)
+- [Dynamically Fused Graph Network for Multi-hop Reasoning](https://arxiv.org/abs/1905.06933)
+- [Multi-hop Reading Comprehension through Question Decomposition and Rescoring](https://arxiv.org/abs/1906.02916)
+- [Compositional Questions Do Not Necessitate Multi-hop Reasoning](https://arxiv.org/abs/1906.02900)
+- [Explore, Propose, and Assemble: An Interpretable Model for Multi-Hop Reading Comprehension](https://arxiv.org/abs/1906.05210)
+
+
+###Literatures
+-[Bidaf++](https://www.aclweb.org/anthology/P18-1078)
+-[HotpotQA](https://arxiv.org/pdf/1809.09600.pdf)
 
