@@ -135,7 +135,7 @@ Some relevant reads:
 - [Explore, Propose, and Assemble: An Interpretable Model for Multi-Hop Reading Comprehension](https://arxiv.org/abs/1906.05210)
 
 
-###Literatures
+### Literatures
 -[Bidaf++](https://www.aclweb.org/anthology/P18-1078)
 -[HotpotQA](https://arxiv.org/pdf/1809.09600.pdf)
 
