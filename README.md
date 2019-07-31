@@ -18,6 +18,7 @@
 - [Power up! Robust Graph Convolutional Network against Evasion Attacks based on Graph Powering](https://arxiv.org/pdf/1905.10029.pdf)
 	- Read carefully. Re-examine Laplacian operator - find some basic flaws in the spatial and spectral domains. Propose a new operator.
 
+
 ### Graph Classification
 - [How Powerful are Graph Neural Networks?](https://arxiv.org/abs/1810.00826) (GIN)
 - [An End-to-End Deep Learning Architecture for Graph Classiﬁcation](https://www.cse.wustl.edu/~muhan/papers/AAAI_2018_DGCNN.pdf) (DGCNN)
@@ -87,6 +88,7 @@
 	- Noisy graphs.
 - [Dimensional Reweighting Graph Convolutional Networks](https://arxiv.org/pdf/1907.02237.pdf)
 - [GraphSAINT: Graph Sampling Based Inductive Learning Method](https://arxiv.org/pdf/1907.04931.pdf)
+- [Spectral-based Graph Convolutional Network for Directed Graphs](https://arxiv.org/pdf/1907.08990.pdf)
 
 #### Graph Classification
 - [Are Powerful Graph Neural Nets Necessary? A Dissection on Graph Classification](https://arxiv.org/pdf/1905.04579.pdf)
