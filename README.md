@@ -111,6 +111,7 @@
 - [Redundancy-Free Computation Graphs for Graph Neural Networks](https://arxiv.org/pdf/1906.03707.pdf)
 - [Representation Learning on Networks: Theories, Algorithms, and Applications](https://dl.acm.org/citation.cfm?id=3320095), [[Tutorial]](http://snap.stanford.edu/proj/embeddings-www/)
 - [Attributed Graph Clustering: A Deep Attentional Embedding Approach](https://arxiv.org/pdf/1906.06532.pdf)
+- [Hybrid Low-order and Higher-order Graph Convolutional Networks](https://arxiv.org/pdf/1908.00673.pdf)
 
 
 ## CNN Ideas
