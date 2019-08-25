@@ -33,6 +33,9 @@
 - [Optimal Transport for structured data with application on graphs](http://proceedings.mlr.press/v97/titouan19a/titouan19a.pdf)
 	- See [Wasserstein Weisfeiler-Lehman Graph Kernels](https://arxiv.org/pdf/1906.01277.pdf)
 
+### Dynamic
+- [Dynamic Graph Message Passing Networks](https://arxiv.org/pdf/1908.06955.pdf)
+
 ### Graph Learning
 - [Learning Discrete Structures for Graph Neural Networks](https://arxiv.org/abs/1903.11960) 
 	- Sample graphs, learn distribution of each graph, and node classification. Transductive.
