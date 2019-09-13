@@ -96,11 +96,11 @@
 #### Graph Classification
 - [Are Powerful Graph Neural Nets Necessary? A Dissection on Graph Classification](https://arxiv.org/pdf/1905.04579.pdf)
 - [Neighborhood Enlargement in Graph Neural Networks](https://arxiv.org/pdf/1905.08509.pdf)
-- [Provably Powerful Graph Networks](https://arxiv.org/pdf/1905.11136.pdf)
-- [Wasserstein Weisfeiler-Lehman Graph Kernels](https://arxiv.org/pdf/1906.01277.pdf)
+- [Provably Powerful Graph Networks](https://arxiv.org/pdf/1905.11136.pdf), Accept
+- [Wasserstein Weisfeiler-Lehman Graph Kernels](https://arxiv.org/pdf/1906.01277.pdf), Accept
 - [Graph Filtration Learning](https://arxiv.org/pdf/1905.10996.pdf)
 - [Improving Attention Mechanism in Graph Neural Networks via Cardinality Preservation](https://arxiv.org/pdf/1907.02204.pdf)
-- [Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology](https://arxiv.org/pdf/1907.05008.pdf)
+- [Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology](https://arxiv.org/pdf/1907.05008.pdf), Accept
 
 #### Generative Model
 - [MolecularRNN: Generating realistic molecular graphs with optimized properties](https://arxiv.org/pdf/1905.13372.pdf)
